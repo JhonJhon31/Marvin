@@ -1,3 +1,2 @@
-def mostrarNOme ():
+def mostrarNome ():
     print ("Marvin")
-print (mostrarNOme())
