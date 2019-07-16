@@ -1,2 +1,2 @@
 def minusculo(palavra):
-    return palavra.lower()
+    return palavra[:1].lower()
